@@ -1,0 +1,24 @@
+/*кожен елемент окрім картинок повинен мати background та color. Всі картинки повінні мати ширину від 200 до 400 пікселів.*/
+
+h1 {
+    background: antiquewhite;
+    color: darkblue;
+}
+
+h2 {
+    background: antiquewhite;
+    color: #50033d;
+}
+
+p{
+    background: rgba(246, 230, 7, 0.4);
+    color: #500323;
+}
+
+img {
+    width: 300px;
+}
+ul {
+    background: rgba(255, 165, 0, 0.93);
+    color: #000000;
+}
