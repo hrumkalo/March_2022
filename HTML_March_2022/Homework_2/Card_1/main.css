@@ -1,5 +1,41 @@
+.colum {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
 .aaa{
-    width: 1400px;
+    width: 910px;
+    height: 200px;
+    background: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bbb {
+    display: flex;
+    column-gap: 5px;
+    padding: 5px 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 300px;
+    height: 600px;
+    background: #5681a8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ccc{
+    width: 910px;
     height: 300px;
     background: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
