@@ -1,13 +1,40 @@
-body{
-    margin: 0px;
+body {
+    margin: 70px;
 }
 
-.BackgroundBlue{
+.BackgroundBlue {
     background: #36cd9f;
-    height: 500px;
+    height: 800px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.card3 {
+    width: 370px;
+    height: 550px;
+    background: #151f28;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .fa-quote-left {
-    font-size: 40px;
+    font-size: 100px;
+    text-align: center;
+    display: block;
+    color: #36cd9f;
+}
+
+.text {
+    font-size: 20px;
+    color: #bebebc;
+    font-family: Inter;
+    width: 80%;
+    text-align: center;
+}
+
+.image{
+
 }
