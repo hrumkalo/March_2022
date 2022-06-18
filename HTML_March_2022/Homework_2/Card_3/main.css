@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+
+.BackgroundBlue{
+    background: #36cd9f;
+    height: 500px;
+    width: 100%;
+}
+
+.fa-quote-left {
+    font-size: 40px;
+}
