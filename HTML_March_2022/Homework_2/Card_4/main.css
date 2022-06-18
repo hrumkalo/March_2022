@@ -1,0 +1,65 @@
+body{
+    background: dodgerblue;
+}
+.colums{
+    display: flex;
+    justify-content: center;
+}
+
+#h2{
+    padding-top: 40px;
+}
+
+.boxI{
+    height: 220px;
+    width: 620px;
+    background: white;
+    border-radius: 14px;
+    margin: 20px 23px 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.boxI > p{
+    box-sizing: border-box;
+    padding-left: 200px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+.boxI > i {
+    font-size: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    top: -107px;
+    left: 66px;
+}
+
+.boxII{
+    height: 220px;
+    width: 620px;
+    background: white;
+    border-radius: 14px;
+    margin: 20px 23px 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.boxII > p {
+    box-sizing: border-box;
+    padding-left: 200px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+.boxII > i {
+    font-size: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    top: -107px;
+    left: 66px;
+}
