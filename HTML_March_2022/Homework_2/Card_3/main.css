@@ -21,6 +21,7 @@ body {
 }
 
 .fa-quote-left {
+    margin-top: 30px;
     font-size: 100px;
     text-align: center;
     display: block;
@@ -28,6 +29,7 @@ body {
 }
 
 .text {
+    margin-top: 10px;
     font-size: 20px;
     color: #bebebc;
     font-family: Inter;
@@ -35,6 +37,25 @@ body {
     text-align: center;
 }
 
-.image{
+.pho{
+    width: 30%;
+}
 
+.imagesss{
+    margin-top: 20px;
+    display: block;
+    height: 150px;
+    width: 100px;
+    border-radius: 40px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 3px solid #bebebc;
+}
+
+.name{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #bebebc;
+    font-family: Inter;
+    text-align: center;
 }
