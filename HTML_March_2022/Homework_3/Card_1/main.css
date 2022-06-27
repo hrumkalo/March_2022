@@ -3,5 +3,16 @@
     height: 400px;
     box-sizing: border-box;
     border: 1px solid black;
+}
 
+.icon{
+    width: 100%px;
+    height: 85px;
+    background: #5681a8;
+}
+
+.title{
+    width: 100%px;
+    height: 75px;
+    background: #91a856;
 }
