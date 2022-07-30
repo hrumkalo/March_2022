@@ -1,10 +1,14 @@
+.oneblock {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+}
 
 .card{
     width: 300px;
     height: 400px;
     box-sizing: border-box;
     border: 1px solid black;
-    margin: 200px;
 }
 
 .icon{
@@ -51,6 +55,13 @@
     color: #575754;
 }
 .more {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-left: 23px;
+}
+.more2{
     height: 50px;
     width: 250px;
     border: 1px solid black;
