@@ -1,0 +1,75 @@
+.card{
+    width: 1300px;
+    min-height: 800px;
+    background: #5681a8;
+    margin: 0 auto;
+}
+
+.onlyA{
+    width: 100%;
+    height: 200px;
+    background: #bebebc;
+}
+
+.letters{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+.bcdefg{
+    width: 75%;
+    height: 600px;
+    background: #9136cd;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.onlyB{
+    width: 33.3%;
+    height: 300px;
+
+    background: blue;
+}
+
+.onlyC{
+    width: 33.3%;
+    height: 300px;
+
+    background: yellow;
+
+}
+
+.onlyD{
+    width: 33.3%;
+    height: 300px;
+
+    background: blue;
+}
+
+.onlyE{width: 33.3%;
+    height: 300px;
+
+    background: yellow;
+}
+
+.onlyF{
+    width: 33.3%;
+    height: 300px;
+
+    background: blue;
+}
+
+.onlyG{
+    width: 33.3%;
+    height: 300px;
+
+    background: yellow;
+}
+
+.onlyH{
+    width: 25%;
+    height: 600px;
+    background: #cdc036;
+}
