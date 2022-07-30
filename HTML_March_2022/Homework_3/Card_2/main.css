@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+.grayyy{
+    width: 100%;
+    height: 100px;
+    background: #c0bfbf;
+}
+
+.darkblue{
+    width: 100%;
+    height: 400px;
+    background: #050550;
+}
+
+.gray{
+    width: 100%;
+    height: 300px;
+    background: #c0bfbf;
+    
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background: #8282e1;
+
+    position: absolute;
+    
+    top: 398px;
+    left: 276px;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background: #8282e1;
+
+    position: absolute;
+
+    top: 398px;
+    left: 576px;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background: #8282e1;
+
+    position: absolute;
+
+    top: 398px;
+    left: 876px;
+}
